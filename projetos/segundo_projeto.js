@@ -3,7 +3,7 @@ function winRate(victory, loss){
     return calculusWin
 }
 
-let rankedBalance = winRate(201, 100)
+let rankedBalance = winRate(900, 100)
 console.log("O seu saldo de partidas rankeadas é de " + rankedBalance)
 
 function heroName(){
